@@ -68,16 +68,6 @@ make docs
 make docs-live
 ```
 
-## Testing
-
-```bash
-# Run specific tests
-python test_trajectory_saver_fix.py
-python test_action_mask_indexing.py
-
-# Add your own tests in tests/ directory
-```
-
 ## Questions?
 
 - Open a [GitHub Issue](https://github.com/DeepLink-org/LightRFT/issues)
