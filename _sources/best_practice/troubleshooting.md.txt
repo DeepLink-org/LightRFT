@@ -669,7 +669,7 @@ When reporting bugs, include:
 If you can't resolve the issue:
 
 1. **Check FAQ**: [FAQ](faq.md)
-2. **Search Issues**: [GitHub Issues](https://github.com/opendilab/LightRFT/issues)
+2. **Search Issues**: [GitHub Issues](https://github.com/DeepLink-org/LightRFT/issues)
 3. **Ask Community**: GitHub Discussions
 4. **Report Bug**: Open new issue with debugging info
 

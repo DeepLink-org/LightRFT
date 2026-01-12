@@ -32,7 +32,7 @@ TO BE DONE
 .. code-block:: bash
 
    # 克隆仓库
-   git clone https://github.com/opendilab/LightRFT.git
+   git clone https://github.com/DeepLink-org/LightRFT.git
    cd LightRFT
 
    # 安装依赖
@@ -261,7 +261,7 @@ LightRFT 组织成几个关键模块：
 
 如果遇到此处未涵盖的问题：
 
-* 查看项目的 `GitHub Issues <https://github.com/opendilab/LightRFT/issues>`_
+* 查看项目的 `GitHub Issues <https://github.com/DeepLink-org/LightRFT/issues>`_
 * 查阅 :doc:`../best_practice/strategy_usage` 了解训练配置
 * 参考 ``examples/`` 目录中的示例脚本
 

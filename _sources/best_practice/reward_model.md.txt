@@ -948,7 +948,7 @@ Traditional RMs usually only score the final result. For tasks requiring multi-t
 **Document Version**: v1.1 (with experimental results)
 **Last Update**: 2025-12-23
 **Maintainer**: LightRFT Team
-**Contact**: opendilab@pjlab.org.cn
+**Contact**: DeepLink-org@pjlab.org.cn
 
 -----
 

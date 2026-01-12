@@ -80,7 +80,7 @@ python test_action_mask_indexing.py
 
 ## Questions?
 
-- Open a [GitHub Issue](https://github.com/opendilab/LightRFT/issues)
+- Open a [GitHub Issue](https://github.com/DeepLink-org/LightRFT/issues)
 - Join our discussions
 - Check the [FAQ](faq.md)
 

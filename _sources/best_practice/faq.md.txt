@@ -41,7 +41,7 @@ For production: 8× A100/H100 80GB recommended
 
 **A**: Simple installation:
 ```bash
-git clone https://github.com/opendilab/LightRFT.git
+git clone https://github.com/DeepLink-org/LightRFT.git
 cd LightRFT
 pip install -r requirements.txt && pip install -e .
 ```
@@ -325,7 +325,7 @@ See [Contributing Guide](contributing.md) for details.
 
 ### Q: How do I report bugs?
 
-**A**: Open an issue on [GitHub Issues](https://github.com/opendilab/LightRFT/issues) with:
+**A**: Open an issue on [GitHub Issues](https://github.com/DeepLink-org/LightRFT/issues) with:
 - Environment details (GPU, CUDA, PyTorch versions)
 - Full error traceback
 - Minimal reproduction script

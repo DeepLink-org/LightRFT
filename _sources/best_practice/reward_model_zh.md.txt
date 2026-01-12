@@ -885,7 +885,7 @@ Reward Hacking 的出现的一个关键原因在于 **Reward Model 仅仅是人�
 **文档版本**: v1.1 (with experimental results)
 **最后更新**: 2025-12-23
 **维护者**: LightRFT Team
-**联系方式**: opendilab@pjlab.org.cn
+**联系方式**: DeepLink-org@pjlab.org.cn
 
 ---
 
